@@ -27,7 +27,7 @@ class CartScreen extends StatelessWidget {
             onPressed: () {},
             child: Text("Buy: 100\$"),
           ),
-          const SizedBox(height: 200,),
+          const SizedBox(height: 20,),
         ],
       ),
       );
